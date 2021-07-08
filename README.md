@@ -9,5 +9,5 @@ Además, se hizo uso de patches de la bibliotecha matplotlib para añadir superp
 
 Utilizamos una lista de comprensión donde la función "dists" determina la distancia entre cada elemento en el dataset y la media. 
 
-Estandarizamos usando el tipo de sintaxis Numpy con una formula simple y luego trazamos el gráfico nuevamente para que funcione con el conjunto de datos estandarizado.
+Estandarizamos usando el tipo de sintaxis NumPy con una formula simple y luego trazamos el gráfico nuevamente para que funcione con el conjunto de datos estandarizado.
 
