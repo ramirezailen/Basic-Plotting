@@ -1,5 +1,5 @@
 # Basic-Plotting
-Basic plotting using Matplotlib in Python
+Graficado básico usando Matplotlib en Python
 
 Primero, se muestra un conjunto de datos dimensional, almacenado en una sola variable con valores únicos.
 Luego, esos valores fueron almacenado como una sola estructura de datos en una matriz NumPy.
@@ -9,5 +9,5 @@ Además, se hizo uso de patches de la bibliotecha matplotlib para añadir superp
 
 Utilizamos una lista de comprensión donde la función "dists" determina la distancia entre cada elemento en el dataset y la media. 
 
-Estandarizamos usando el tipo de sintaxis Numpy con una formula simple y luego trazamos el gráfico nuevamente para que funcione con el conjunto de datos normalizado.
+Estandarizamos usando el tipo de sintaxis Numpy con una formula simple y luego trazamos el gráfico nuevamente para que funcione con el conjunto de datos estandarizado.
 
